@@ -1,6 +1,7 @@
-import React from 'react'
-import {} from './pages'
 
-const App =() =><>Main</>
+import React from 'react'
+import {Main} from './pages'
+
+const App = () => <><Main/></>
 
 export default App
